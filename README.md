@@ -1,1 +1,1 @@
-# virtual-shelf
+# Virtual Shelf Resources
