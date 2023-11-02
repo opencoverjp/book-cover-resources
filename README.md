@@ -27,7 +27,7 @@
 - kadokawa-one-theme 角川oneテーマ
 - kawade-bunko 河出文庫
 - kobunsha-shinsho 光文社新書
-- kodansha-bluebacks ブルーバックス
+- bluebacks ブルーバックス
 - kodansha-bunko 講談社文庫
 - kodansha-gakujutsu-bunko 講談社学術文庫
 - kodansha-gendai-shinsho 講談社現代新書
