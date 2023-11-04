@@ -4,6 +4,7 @@
 
 - asahi-shinsho 朝日新書
 - ascii-shinsho アスキー新書
+- bluebacks ブルーバックス
 - bunshun-bunko 文春文庫
 - bunshun-shinsho 文春新書
 - chikuma-bunko ちくま文庫
@@ -27,7 +28,6 @@
 - kadokawa-one-theme 角川oneテーマ
 - kawade-bunko 河出文庫
 - kobunsha-shinsho 光文社新書
-- bluebacks ブルーバックス
 - kodansha-bunko 講談社文庫
 - kodansha-gakujutsu-bunko 講談社学術文庫
 - kodansha-gendai-shinsho 講談社現代新書
