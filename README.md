@@ -18,7 +18,7 @@
 - fusosha-shinsho 扶桑社新書
 - gentosha-shinsho 幻冬舎新書
 - hakusui-u-books 白水uブックス
-- hayakawa-nonfiction-bunko 早川ノンフィクション文庫
+- hayakawa-nonfiction-bunko ハヤカワノンフィクション文庫
 - heibonsha-library 平凡社ライブラリー
 - heibonsha-shinsho 平凡社新書
 - iwanami-active-shinsho 岩波アクティブ新書
