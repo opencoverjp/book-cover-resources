@@ -49,7 +49,17 @@
     - front.jpg
     - back.jpg
     - spine.jpg
+- scan-data-body
+  - ${label}
+    - front.jpg
+    - back.jpg
+    - spine.jpg
 - docs
+  - sample-body
+    - ${label}
+      - front.jpg
+      - back.jpg
+      - spine.jpg
   - sample-covers
     - ${label}
       - front.jpg
