@@ -25,7 +25,7 @@
 - iwanami-gendai-bunko 岩波現代文庫
 - iwanami-junior-shinsho 岩波ジュニア新書
 - iwanami-shinsho 岩波新書
-- kadokawa-one-theme 角川oneテーマ
+- kadokawa-one-theme-21 角川oneテーマ
 - kawade-bunko 河出文庫
 - kobunsha-shinsho 光文社新書
 - kodansha-bunko 講談社文庫
