@@ -1,4 +1,4 @@
-# Virtual Shelf Resources
+# Book Cover Resources
 
 ## Labels
 
