@@ -1,6 +1,14 @@
 # Book Cover Resources
 
-## Labels
+## Directories
+
+- scan-data 撮影データ（カバー）
+- scan-data-body 撮影データ（本体）
+- docs　リサイズ後のデータ
+  - sample-body　本体
+  - sample-covers　カバー
+
+## Series Names
 
 - asahi-shinsho 朝日新書
 - ascii-shinsho アスキー新書
