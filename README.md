@@ -2,11 +2,14 @@
 
 ## Directories
 
-- scan-data 撮影データ（カバー）
-- scan-data-body 撮影データ（本体）
+- scan-data 撮影データ
+  - ${label}
+    - body
+    - cover
 - docs　リサイズ後のデータ
-  - sample-body　本体
-  - sample-covers　カバー
+  - ${label}
+    - body
+    - cover
 
 ## Series Names
 
@@ -93,22 +96,20 @@
 
 - scan-data
   - ${label}
-    - front.jpg
-    - back.jpg
-    - spine.jpg
-- scan-data-body
-  - ${label}
-    - front.jpg
-    - back.jpg
-    - spine.jpg
-- docs
-  - sample-body
-    - ${label}
+    - body
       - front.jpg
       - back.jpg
       - spine.jpg
-  - sample-covers
-    - ${label}
+    - cover
+      - front.jpg
+      - back.jpg
+      - spine.jpg
+- docs
+    - body
+      - front.jpg
+      - back.jpg
+      - spine.jpg
+    - cover
       - front.jpg
       - back.jpg
       - spine.jpg
