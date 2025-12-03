@@ -2,74 +2,114 @@
 
 ## Directories
 
-- scan-data 撮影データ（カバー）
-- scan-data-body 撮影データ（本体）
+- scan-data 撮影データ
+  - ${label}
+    - body
+    - cover
 - docs　リサイズ後のデータ
-  - sample-body　本体
-  - sample-covers　カバー
+  - ${label}
+    - body
+    - cover
 
 ## Series Names
 
-- asahi-shinsho 朝日新書
+- asahi-bunko 朝日文庫
 - ascii-shinsho アスキー新書
+- best-shinsho ベスト新書
 - bluebacks ブルーバックス
 - bunshun-bunko 文春文庫
 - bunshun-shinsho 文春新書
 - chikuma-bunko ちくま文庫
+- chikuma-bunko チクマ文庫
 - chikuma-gakugei-bunko ちくま学芸文庫
 - chikuma-primer-shinsho ちくまプリマー新書
 - chikuma-shinsho ちくま新書
+- chiteki-ikikata-bunko 知的生きかた文庫
 - chuko-bunko 中公文庫
 - chuko-classics 中公クラシックス
+- chuko-shinsho 中公新書
 - chuko-shinsho-laclef 中公新書ラクレ
-- chuko-shinsho 中公新著
+- discover-keisho ディスカヴァー携書
+- dojin-bunko DOJIN文庫
 - fusosha-shinsho 扶桑社新書
+- futaba-bunko 双葉文庫
+- futaba-shinsho 双葉新書
+- gentosha-bunko 幻冬舎文庫
 - gentosha-shinsho 幻冬舎新書
 - hakusui-u-books 白水uブックス
 - hayakawa-nonfiction-bunko ハヤカワノンフィクション文庫
 - heibonsha-library 平凡社ライブラリー
 - heibonsha-shinsho 平凡社新書
+- international-shinsho インターナショナル新書
 - iwanami-active-shinsho 岩波アクティブ新書
+- iwanami-bunko 岩波文庫
 - iwanami-gendai-bunko 岩波現代文庫
 - iwanami-junior-shinsho 岩波ジュニア新書
+- iwanami-kagaku-library 岩波科学ライブラリー
 - iwanami-shinsho 岩波新書
-- kadokawa-one-theme-21 角川oneテーマ
+- jinbutsu-bunko 人物文庫
+- kadokawa-bunko 角川文庫
+- kadokawa-one-theme-21 角川oneテーマ21
+- kadokawa-shinsho 角川新書
 - kawade-bunko 河出文庫
+- kawade-shinsho 河出新書
+- kawade-yume-bunko KAWADE夢文庫
+- kawade-yume-shinsho KAWADE夢新書
 - kobunsha-shinsho 光文社新書
 - kodansha-bunko 講談社文庫
 - kodansha-gakujutsu-bunko 講談社学術文庫
 - kodansha-gendai-shinsho 講談社現代新書
+- kodansha-plus-alpha-bunko 講談社+α文庫
+- kodansha-plus-alpha-shinsho 講談社＋α新書
+- koubunsha-bunko 光文社文庫
+- maruzen-library 丸善ライブラリー
+- mycom-shinsho MYCOM新書
 - nhk-books NHKブックス
+- nhk-shuppan-shinsho NHK出版新書
+- nikkei-bunko 日経文庫
+- nikkei-business-jin-bunko 日経ビジネス人文庫
 - nikkei-premiere-series 日経プレミアシリーズ
+- ousama-bunko 王様文庫
 - php-bunko PHP文庫
+- php-science-world-shinsho PHPサイエンス・ワールド新書
 - php-shinsho PHP新書
-- seikaisha-shinsho 星海社新書
+- poplar-shinsho ポプラ新書
+- sb-shinsho SB新書
+- science-eye-shinsho サイエンス・アイ新書
+- seishun-shinsho-intelligence 青春新書INTELLIGENCE
+- seishun-shinsho-playbooks 青春新書プレイブックス
 - shincho-bunko 新潮文庫
 - shincho-shinsho 新潮新書
+- shinsho-y 新書y
+- shodensha-shinsho 祥伝社新書
+- shougakukan-bunko 小学館文庫
+- shueisha-bunko 集英社文庫
 - shueisha-shinsho 集英社新書
 - softbank-shinsho ソフトバンク新書
 - soshisha-bunko 草思社文庫
+- sougen-suiri-bunko 創元推理文庫
+- takarajimasha-bunko 宝島社文庫
+- wanibooks-plus-shinsho ワニブックスPLUS新書
+- yoshikawaeiji-rekishi-jidai-bunko 吉川英治歴史時代文庫
 
 ## Files
 
 - scan-data
   - ${label}
-    - front.jpg
-    - back.jpg
-    - spine.jpg
-- scan-data-body
-  - ${label}
-    - front.jpg
-    - back.jpg
-    - spine.jpg
-- docs
-  - sample-body
-    - ${label}
+    - body
       - front.jpg
       - back.jpg
       - spine.jpg
-  - sample-covers
-    - ${label}
+    - cover
+      - front.jpg
+      - back.jpg
+      - spine.jpg
+- docs
+    - body
+      - front.jpg
+      - back.jpg
+      - spine.jpg
+    - cover
       - front.jpg
       - back.jpg
       - spine.jpg
