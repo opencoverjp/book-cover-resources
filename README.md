@@ -17,6 +17,7 @@
 - ascii-shinsho アスキー新書
 - best-shinsho ベスト新書
 - bluebacks ブルーバックス
+- bunko-quesaisje 文庫クセジュ
 - bunshun-bunko 文春文庫
 - bunshun-shinsho 文春新書
 - chikuma-bunko ちくま文庫
@@ -29,6 +30,7 @@
 - chuko-classics 中公クラシックス
 - chuko-shinsho 中公新書
 - chuko-shinsho-laclef 中公新書ラクレ
+- cq-bunko CQ文庫
 - discover-keisho ディスカヴァー携書
 - dojin-bunko DOJIN文庫
 - fusosha-shinsho 扶桑社新書
@@ -61,7 +63,9 @@
 - kodansha-gendai-shinsho 講談社現代新書
 - kodansha-plus-alpha-bunko 講談社+α文庫
 - kodansha-plus-alpha-shinsho 講談社＋α新書
+- kodansha-taiga 講談社タイガ
 - koubunsha-bunko 光文社文庫
+- kojinsha-nf-bunko 光人社NF文庫
 - maruzen-library 丸善ライブラリー
 - mycom-shinsho MYCOM新書
 - nhk-books NHKブックス
@@ -76,6 +80,7 @@
 - poplar-shinsho ポプラ新書
 - sb-shinsho SB新書
 - science-eye-shinsho サイエンス・アイ新書
+- science-palette サイエンス・パレット
 - seishun-shinsho-intelligence 青春新書INTELLIGENCE
 - seishun-shinsho-playbooks 青春新書プレイブックス
 - shincho-bunko 新潮文庫
