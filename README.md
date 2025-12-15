@@ -36,6 +36,7 @@
 - fusosha-shinsho 扶桑社新書
 - futaba-bunko 双葉文庫
 - futaba-shinsho 双葉新書
+- futami-bunko 二見文庫
 - gentosha-bunko 幻冬舎文庫
 - gentosha-shinsho 幻冬舎新書
 - hakusui-u-books 白水uブックス
@@ -110,11 +111,11 @@
       - back.jpg
       - spine.jpg
 - docs
-    - body
-      - front.jpg
-      - back.jpg
-      - spine.jpg
-    - cover
-      - front.jpg
-      - back.jpg
-      - spine.jpg
+  - body
+    - front.jpg
+    - back.jpg
+    - spine.jpg
+  - cover
+    - front.jpg
+    - back.jpg
+    - spine.jpg
