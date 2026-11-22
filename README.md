@@ -58,6 +58,7 @@
 - kawade-shinsho 河出新書
 - kawade-yume-bunko KAWADE夢文庫
 - kawade-yume-shinsho KAWADE夢新書
+- kobunsha-bunko 光文社文庫
 - kobunsha-shinsho 光文社新書
 - kodansha-bunko 講談社文庫
 - kodansha-gakujutsu-bunko 講談社学術文庫
@@ -65,7 +66,6 @@
 - kodansha-plus-alpha-bunko 講談社+α文庫
 - kodansha-plus-alpha-shinsho 講談社＋α新書
 - kodansha-taiga 講談社タイガ
-- koubunsha-bunko 光文社文庫
 - kojinsha-nf-bunko 光人社NF文庫
 - maruzen-library 丸善ライブラリー
 - mycom-shinsho MYCOM新書
@@ -74,7 +74,7 @@
 - nikkei-bunko 日経文庫
 - nikkei-business-jin-bunko 日経ビジネス人文庫
 - nikkei-premiere-series 日経プレミアシリーズ
-- ousama-bunko 王様文庫
+- osama-bunko 王様文庫
 - php-bunko PHP文庫
 - php-science-world-shinsho PHPサイエンス・ワールド新書
 - php-shinsho PHP新書
@@ -88,12 +88,12 @@
 - shincho-shinsho 新潮新書
 - shinsho-y 新書y
 - shodensha-shinsho 祥伝社新書
-- shougakukan-bunko 小学館文庫
+- shogakukan-bunko 小学館文庫
 - shueisha-bunko 集英社文庫
 - shueisha-shinsho 集英社新書
 - softbank-shinsho ソフトバンク新書
 - soshisha-bunko 草思社文庫
-- sougen-suiri-bunko 創元推理文庫
+- sogen-suiri-bunko 創元推理文庫
 - takarajimasha-bunko 宝島社文庫
 - wanibooks-plus-shinsho ワニブックスPLUS新書
 - yoshikawaeiji-rekishi-jidai-bunko 吉川英治歴史時代文庫
