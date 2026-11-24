@@ -24,6 +24,7 @@
 - chikuma-bunko チクマ文庫
 - chikuma-gakugei-bunko ちくま学芸文庫
 - chikuma-primer-shinsho ちくまプリマー新書
+- chikuma-sensho 筑摩選書
 - chikuma-shinsho ちくま新書
 - chiteki-ikikata-bunko 知的生きかた文庫
 - chuko-bunko 中公文庫
@@ -59,12 +60,16 @@
 - kawade-yume-bunko KAWADE夢文庫
 - kawade-yume-shinsho KAWADE夢新書
 - kobunsha-bunko 光文社文庫
+- kobunsha-chienomori-bunko 光文社知恵の森文庫
+- kobunsha-koten-shinyaku-bunko 光文社古典新訳文庫
 - kobunsha-shinsho 光文社新書
+- kodansha-bungei-bunko 講談社文芸文庫
 - kodansha-bunko 講談社文庫
 - kodansha-gakujutsu-bunko 講談社学術文庫
 - kodansha-gendai-shinsho 講談社現代新書
 - kodansha-plus-alpha-bunko 講談社+α文庫
 - kodansha-plus-alpha-shinsho 講談社＋α新書
+- kodansha-sensho-metier 講談社選書メチエ
 - kodansha-taiga 講談社タイガ
 - kojinsha-nf-bunko 光人社NF文庫
 - maruzen-library 丸善ライブラリー
@@ -95,7 +100,9 @@
 - soshisha-bunko 草思社文庫
 - sogen-suiri-bunko 創元推理文庫
 - takarajimasha-bunko 宝島社文庫
+- takarajimasha-shinsho 宝島社新書
 - wanibooks-plus-shinsho ワニブックスPLUS新書
+- wide-iwanami-bunko ワイド版岩波文庫
 - yoshikawaeiji-rekishi-jidai-bunko 吉川英治歴史時代文庫
 
 ## Files
